@@ -5,8 +5,10 @@
     box-sizing: border-box;
 }
 body{
-    background-image: url(bg.jpg)  ;
+    background-image: url(bg.jpg);
     background-size: cover;
+    background-position: inherit;
+    background-repeat: no-repeat;
 }
 .container{
     /* border: 10px solid black; */
